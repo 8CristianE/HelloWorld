@@ -1,0 +1,15 @@
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/crise/repos/chsarp27/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
